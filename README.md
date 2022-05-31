@@ -22,11 +22,10 @@
 
 <p align="center">
 <strong> Personal </strong> <br>
-<ul>
-<li>DJ (BeatLoops) </li>
-<li>Photography (Gummelproductions) </li>
-<li>Car Enthusiast </li>
-</ul>
+🎧 DJ (BeatLoops)
+📷 Photography (Gummelproductions)
+🚗 Car Enthusiast
+
 </p>
 
 <br>

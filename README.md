@@ -12,18 +12,36 @@
   Kollegium Schwyz <br>
   from 08.2018 to 07.2020
 </p>
-  
+
+
+<br>
+<br>
+
+
 <h2 align="center"> 🏖️ Interests </h2>
 
-- Personal
-  - DJ (BeatLoops)
-  - Photography (Gummelproductions)
-  - Car Enthusiast 
+<p align="center">
+<strong> Personal </strong> <br>
+<ul>
+<li>DJ (BeatLoops) </li>
+<li>Photography (Gummelproductions) </li>
+<li>Car Enthusiast </li>
+</ul>
+</p>
 
-- Coding
-  - C#
-  - Swift
-  - Phyton
+<br>
+
+<p align="center">
+<strong> Coding </strong>
+<ul> 
+<li> C# </li>
+<li> Swift </li>
+<li> Phyton </li>
+</ul>
+</p>
+
+<br>
+<br>
 
 <h2 align="center">💰 Part-time Jobs</h2>
 

@@ -18,7 +18,7 @@
 <br>
 
 
-<h2 align="center"> 🏖️ Interests </h2>
+<h2 align="center"> 🤔 Interests </h2>
 
 <p align="center">
 <strong> Personal </strong> <br>

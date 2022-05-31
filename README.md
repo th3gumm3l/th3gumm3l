@@ -1,3 +1,5 @@
+*work in progress*
+
 <h1 align="center">Tim Bernhard</h1>
 
 <h2 align="center"> 🧑‍🎓 Education </h2>

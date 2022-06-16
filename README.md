@@ -24,9 +24,9 @@
 
 <p align="center">
 <strong> Personal </strong> <br>
-🎧 DJ (BeatLoops)
-📷 Photography (Gummelproductions)
-🚗 Car Enthusiast
+🎧 DJ (BeatLoops) <br>
+📷 Photography (Gummelproductions) <br>
+🚗 Car Enthusiast <br>
 
 </p>
 

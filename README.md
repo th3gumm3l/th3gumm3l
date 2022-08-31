@@ -24,19 +24,25 @@
 
 <p align="center">
 <strong> Personal </strong> <br>
-🎧 DJ (BeatLoops) <br>
-📷 Photography (Gummelproductions) <br>
-🚗 Car Enthusiast <br>
-
+<div align="center">
+🎧 <br> DJ (<a href="www.google.com">Beatloops</a>) <br>  <br>
+📷 <br> Photography (Gummelproductions) <br> <br>
+🚗 <br> Car Enthusiast <br> <br>
+</div>
 </p>
 
 <br>
 
 <p align="center">
-<strong> Coding </strong>
-<ul> 
-<li> C# </li>
-</ul>
+<strong> Coding </strong> <br>
+  <img align="center" src="./assets/svg/languages/cplusplus.svg" alt="c++" height="40px" margin-top="5px"/>
+  <img align="center" src="./assets/svg/languages/csharp.svg" alt="c#" height="40px"/>
+  <img align="center" src="./assets/svg/languages/python.svg" alt="python" height="40px"/>
+  <img align="center" src="./assets/svg/languages/html5.svg" alt="html" height="40px"/>
+  <img align="center" src="./assets/svg/languages/javascript.svg" alt="javascript" height="40px"/>
+  <img align="center" src="./assets/svg/languages/sass.svg" alt="sass" height="40px"/>
+
+
 </p>
 
 <br>

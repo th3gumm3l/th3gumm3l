@@ -36,8 +36,6 @@
 <strong> Coding </strong>
 <ul> 
 <li> C# </li>
-<li> Swift </li>
-<li> Phyton </li>
 </ul>
 </p>
 

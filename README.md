@@ -15,48 +15,52 @@
   from 08.2018 to 07.2020
 </p>
 
-
 <br>
 <br>
-
 
 <h2 align="center"> 🤔 Interests </h2>
 
-<p align="center">
-<strong> Personal </strong> <br>
 <div align="center">
-🎧 <br> DJ (<a href="https://www.google.com">Beatloops</a>) <br>  <br>
-📷 <br> Photography (Gummelproductions) <br> <br>
-🚗 <br> Car Enthusiast <br> <br>
+  <h2> 🎧 </h2>
+  DJ (<a href="https://beatloops.jimdofree.com">Beatloops</a>) <br>  <br>
+
+  <h2>📷 </h2>
+  Photography (<a href="https://unsplash.com/@gummelproductions">Gummelproductions</a>) <br> <br>
+
+  <h2>🚗</h2>
+  Car Enthusiast <br> <br>
+
 </div>
-</p>
 
-<br>
 
-<p align="center">
-<strong> Coding </strong> <br>
+<h2 align="center"> 💻 Coding </h2> <br>
+
+<div align="center">
   <img align="center" src="./assets/svg/languages/cplusplus.svg" alt="c++" height="40px" margin-top="5px"/>
   <img align="center" src="./assets/svg/languages/csharp.svg" alt="c#" height="40px"/>
   <img align="center" src="./assets/svg/languages/python.svg" alt="python" height="40px"/>
   <img align="center" src="./assets/svg/languages/html5.svg" alt="html" height="40px"/>
   <img align="center" src="./assets/svg/languages/javascript.svg" alt="javascript" height="40px"/>
   <img align="center" src="./assets/svg/languages/sass.svg" alt="sass" height="40px"/>
-
-
-</p>
+</div>
 
 <br>
 <br>
 
 <h2 align="center">💰 Part-time Jobs</h2>
+<p align="center">
+  *every Saturday*
+</p>
 
-*every Saturday*
+<div align="center">
+  <strong> 💁 Service Specialist (current) </strong> <br>
+  <a href="https://www.gasthaus-tuebli-gersau.ch/">Gasthaus Tübli</a> 
+  || since 06.2022
 
-- Service Specialist (current)
-  - Gasthaus Tübli in Gersau since 06.2022
+  <strong> 💁 Service Specialist </strong> <br>
+  <a href="https://www.badi-info.ch/a/brunnen-hopfraeben.html">Badi Hopfräben</a> || from 06.2017 to 07.2022
 
-- Service Specialist (current)
-  - Badi Hopfräben in Brunnen since 06.2017
+  <strong> 💁 Service Specialist </strong> <br>
+  <a href="https://www.quai2.ch/">Quai 2</a> || from 08.2018 to 05.2022
 
-- Service Specialist
-  - Quai 2 in Brunnen from 08.2018 to 05.2022
+</div>

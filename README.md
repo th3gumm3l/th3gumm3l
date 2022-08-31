@@ -25,7 +25,7 @@
 <p align="center">
 <strong> Personal </strong> <br>
 <div align="center">
-🎧 <br> DJ (<a href="www.google.com">Beatloops</a>) <br>  <br>
+🎧 <br> DJ (<a href="https://www.google.com">Beatloops</a>) <br>  <br>
 📷 <br> Photography (Gummelproductions) <br> <br>
 🚗 <br> Car Enthusiast <br> <br>
 </div>

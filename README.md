@@ -1,6 +1,6 @@
-*work in progress*
-
 <h1 align="center">Tim Bernhard</h1>
+
+<br>
 
 <h2 align="center"> 🧑‍🎓 Education </h2>
 
@@ -21,13 +21,13 @@
 <h2 align="center"> 🤔 Interests </h2>
 
 <div align="center">
-  <h2> 🎧 </h2>
+  🎧 <br>
   DJ (<a href="https://beatloops.jimdofree.com">Beatloops</a>) <br>  <br>
 
-  <h2>📷 </h2>
+  📷 <br>
   Photography (<a href="https://unsplash.com/@gummelproductions">Gummelproductions</a>) <br> <br>
 
-  <h2>🚗</h2>
+  🚗 <br>
   Car Enthusiast <br> <br>
 
 </div>

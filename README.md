@@ -42,6 +42,7 @@
   <img align="center" src="./assets/svg/languages/html5.svg" alt="html" height="40px"/>
   <img align="center" src="./assets/svg/languages/javascript.svg" alt="javascript" height="40px"/>
   <img align="center" src="./assets/svg/languages/sass.svg" alt="sass" height="40px"/>
+  <img align="center" src="./assets/svg/languages/php.svg" alt="sass" height="40px"/>
 </div>
 
 <br>

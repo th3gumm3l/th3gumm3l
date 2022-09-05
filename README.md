@@ -33,7 +33,7 @@
 </div>
 
 
-<h2 align="center"> 💻 Coding </h2> <br>
+<h2 align="center"> 💻 Used Langugages </h2> <br>
 
 <div align="center">
   <img align="center" src="./assets/svg/languages/cplusplus.svg" alt="c++" height="40px" margin-top="5px"/>

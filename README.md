@@ -5,6 +5,11 @@
 <h2 align="center"> 🧑‍🎓 Education </h2>
 
 <p align="center"> 
+  <strong> Apprenticeship (upcoming) </strong> <br> 
+  Schwyzer Kantonalbank <br>
+  starting 08.2023 
+  <br>
+  <br>
   <strong> Informatikmittelschule (current) </strong> <br> 
   FMZ Lucerne <br>
   since 08.2020 

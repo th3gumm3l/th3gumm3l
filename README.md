@@ -43,7 +43,6 @@
 <div align="center">
   <img align="center" src="./assets/svg/languages/cplusplus.svg" alt="c++" height="40px" margin-top="5px"/>
   <img align="center" src="./assets/svg/languages/csharp.svg" alt="c#" height="40px"/>
-  <img align="center" src="./assets/svg/languages/python.svg" alt="python" height="40px"/>
   <img align="center" src="./assets/svg/languages/html5.svg" alt="html" height="40px"/>
   <img align="center" src="./assets/svg/languages/javascript.svg" alt="javascript" height="40px"/>
   <img align="center" src="./assets/svg/languages/sass.svg" alt="sass" height="40px"/>

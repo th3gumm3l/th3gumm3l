@@ -5,7 +5,7 @@
 <h2 align="center"> 🧑‍🎓 Education </h2>
 
 <p align="center"> 
-  <strong> Apprenticeship (upcoming) </strong> <br> 
+  <strong> Apprenticeship (current) </strong> <br> 
   Schwyzer Kantonalbank <br>
   starting 08.2023 
   <br>
@@ -54,13 +54,13 @@
 
 <h2 align="center">💰 Part-time Jobs</h2>
 <p align="center">
-  *every Saturday*
+  
 </p>
 
 <div align="center">
   <strong> 💁 Service Specialist (current) </strong> <br>
   <a href="https://www.gasthaus-tuebli-gersau.ch/">Gasthaus Tübli</a> 
-  || since 06.2022
+  || since 06.2022 to 05.2023
 
   <strong> 💁 Service Specialist </strong> <br>
   <a href="https://www.badi-info.ch/a/brunnen-hopfraeben.html">Badi Hopfräben</a> || from 06.2017 to 07.2022

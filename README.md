@@ -7,7 +7,7 @@
 <p align="center"> 
   <strong> Apprenticeship (current) </strong> <br> 
   Schwyzer Kantonalbank <br>
-  starting 08.2023 
+  since 08.2023 
   <br>
   <br>
   <strong> Informatikmittelschule (current) </strong> <br> 
@@ -58,7 +58,7 @@
 </p>
 
 <div align="center">
-  <strong> 💁 Service Specialist (current) </strong> <br>
+  <strong> 💁 Service Specialist </strong> <br>
   <a href="https://www.gasthaus-tuebli-gersau.ch/">Gasthaus Tübli</a> 
   || since 06.2022 to 05.2023
 

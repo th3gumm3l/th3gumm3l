@@ -14,10 +14,6 @@
   FMZ Lucerne <br>
   since 08.2020 
   <br>
-  <br>
-  <strong> Gymnasium (cancelled) </strong> <br>
-  Kollegium Schwyz <br>
-  from 08.2018 to 07.2020
 </p>
 
 <br>
